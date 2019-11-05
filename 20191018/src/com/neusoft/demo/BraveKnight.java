@@ -13,4 +13,7 @@ public class BraveKnight {
 	public void say2(){
 		System.out.println("骑士向神龙许了三个愿望!!!");
 	}
+	public void say3(){
+		System.out.println("神龙实现了骑士的愿望!!!");
+	}
 }
