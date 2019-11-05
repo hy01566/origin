@@ -7,4 +7,7 @@ public class BraveKnight {
 	public void says(){
 		System.out.println("骑士向神龙许了一个愿望!!!");
 	}
+	public void saies(){
+		System.out.println("骑士向神龙许了两个愿望!!!");
+	}
 }
